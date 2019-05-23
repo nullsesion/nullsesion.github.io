@@ -1,5 +1,9 @@
 {
- "name": "App",
+ "name": "body mass index",
+ "short_name": "BMI",
+ "lang": "ru-RU",
+ "start_url": "/",
+ "display": "standalone",
  "icons": [
   {
    "src": "\/android-icon-36x36.png",
