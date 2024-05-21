@@ -1,0 +1,6 @@
+.skill {
+    display: flex;
+}
+.skill__label {
+    padding-right: 5px;
+}
